@@ -18,6 +18,6 @@ document.getElementById('add-money').addEventListener('click', function(event){
 
     }
     else{
-        alert('failed login')
+        alert('wrong pin to add money')
     }
 })
